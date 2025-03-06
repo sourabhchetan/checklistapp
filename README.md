@@ -31,7 +31,7 @@ Checklist-App/
 ## 📦 Installation & Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/checklist-web.git
+   git clone https://github.com/sourabhchetan/checklist-web.git
    cd checklist-web
    ```
 2. **Install dependencies**
